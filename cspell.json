@@ -1,0 +1,26 @@
+{
+  "$schema": "https://raw.githubusercontent.com/streetsidesoftware/cspell/main/cspell.schema.json",
+  "version": "0.2",
+  "language": "en",
+  "words": [
+    "donaldfountain",
+    "explainability",
+    "vintagedon",
+    "giscus",
+    "opengraph",
+    "goldmark",
+    "cmmc",
+    "desi",
+    "agentic",
+    "shap",
+    "interpretability",
+    "X",
+    "X",
+    "X",
+    "X",
+    "venv"
+  ],
+  "ignorePaths": [
+    "**/.git/**",
+  ]
+}

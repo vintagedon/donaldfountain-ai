@@ -1,10 +1,18 @@
 ---
 title: Links
 links:
-  - title: GitHub
-    description: GitHub is the world's largest software development platform.
-    website: https://github.com
-    image: https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png
+  - title: RadioAstronomy.io
+    description: Open science research lab applying ML to astronomical datasets. Currently working with DESI survey data and agentic development environments.
+    website: https://radioastronomy.io
+  - title: Simon Willison's Weblog
+    description: Inspiration for this site's format - coherent expertise with flexible exploration. One of the best examples of technical weblogging.
+    website: https://simonwillison.net
+  - title: GitHub (@vintagedon)
+    description: Code repositories, infrastructure projects, and open source contributions.
+    website: https://github.com/vintagedon
+  - title: X/Twitter (@donaldfountain)
+    description: AI governance commentary, research updates, and technical observations.
+    website: https://x.com/donaldfountain
 menu:
     main: 
         weight: 4
@@ -14,20 +22,4 @@ menu:
 comments: false
 ---
 
-To use this feature, add `links` section to frontmatter.
-
-This page's frontmatter:
-
-```yaml
-links:
-  - title: GitHub
-    description: GitHub is the world's largest software development platform.
-    website: https://github.com
-    image: https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png
-  - title: TypeScript
-    description: TypeScript is a typed superset of JavaScript that compiles to plain JavaScript.
-    website: https://www.typescriptlang.org
-    image: ts-logo-128.jpg
-```
-
-`image` field accepts both local and external images.
+Places I maintain, people who influence my thinking, and resources worth following.
