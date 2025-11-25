@@ -1,0 +1,4 @@
+# Exclude theme module from GitHub language stats and contributors
+go.mod linguist-vendored
+go.sum linguist-vendored
+_vendor/ linguist-vendored
