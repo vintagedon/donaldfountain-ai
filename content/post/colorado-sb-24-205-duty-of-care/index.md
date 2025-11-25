@@ -3,7 +3,7 @@ title: "Colorado SB-24-205: The Duty of Care Model"
 description: "Why Colorado's AI law establishes a standard of care obligation rather than prohibiting specific technologies - and why that approach survived the backlash"
 date: 2025-10-22
 slug: colorado-sb-24-205-duty-of-care
-image: 
+image: cover.jpg
 categories:
     - AI Policy
     - Governance
