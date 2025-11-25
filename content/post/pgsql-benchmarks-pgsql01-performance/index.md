@@ -5,7 +5,7 @@ date: 2025-10-14
 slug: pgsql-benchmarks-pgsql01
 aliases:
     - /pgsql-benchmarks-pgsql01
-image: 
+image: cover.jpg
 categories:
     - Infrastructure
 tags:

@@ -3,7 +3,7 @@ title: "Proxmox Cluster for Data Science"
 description: "Building a 144-core data science infrastructure for creating Analysis Ready Datasets - from astronomical spectroscopy to gaming industry analytics"
 date: 2025-10-16
 slug: proxmox-cluster-desi-analysis
-image: 
+image: cover.jpg
 categories:
     - Infrastructure
     - Data Science
