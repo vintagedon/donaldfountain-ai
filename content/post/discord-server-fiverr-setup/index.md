@@ -3,7 +3,7 @@ title: "Worth It: Fiverr Discord Setup"
 description: "Sometimes paying $30 to skip the tedious parts is the right engineering decision"
 date: 2025-10-18
 slug: discord-server-fiverr-setup
-image: cover.png
+image: cover.jpg
 categories:
     - Infrastructure
     - Productivity

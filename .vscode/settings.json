@@ -39,6 +39,7 @@
   "python.analysis.typeCheckingMode": "basic",
   "python.terminal.activateEnvironment": true,
   "conventionalCommits.scopes": [
-    "New Article"
+    "New Article",
+    "Style/Content Minor Change"
   ]
 }
