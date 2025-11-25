@@ -95,11 +95,13 @@ The waterfall plot shows exactly how each feature pushed the prediction toward o
 The SHAP analysis revealed something I should have known but didn't fully appreciate: Dn4000 and H-alpha are doing 90% of the work.
 
 For star-forming galaxies, the model looks at:
+
 1. H-alpha emission (strong → star-forming)
 2. Dn4000 index (weak break → young stars → star-forming)
 3. Everything else contributes marginally
 
 For quiescent galaxies, the pattern inverts:
+
 1. Dn4000 (strong break → old stars → quiescent)
 2. H-alpha (weak or absent → no ongoing formation)
 3. Stellar mass matters slightly (massive galaxies tend to be quiescent)
