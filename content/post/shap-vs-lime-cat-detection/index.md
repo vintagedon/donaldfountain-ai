@@ -3,7 +3,7 @@ title: "SHAP vs LIME: Cat Detection Showdown"
 description: "Same image, same model, two explainability methods - comparing what LIME and SHAP reveal about a pretrained classifier"
 date: 2025-10-27
 slug: shap-vs-lime-cat-detection
-image: 
+image: cover.jpg
 categories:
     - xAI
     - Data Science
