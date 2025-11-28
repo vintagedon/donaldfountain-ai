@@ -1,7 +1,7 @@
 ---
 title: "Montana's Right to Compute: The Constitutional Model"
 description: "Montana didn't regulate AI - it protected computational access as a constitutional right, flipping the burden onto government to justify any restriction"
-date: 2025-11-01
+date: 2025-11-08
 slug: montana-right-to-compute-constitutional-model
 image: cover.jpg
 categories:

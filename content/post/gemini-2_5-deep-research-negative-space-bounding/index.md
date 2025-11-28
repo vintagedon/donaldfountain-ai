@@ -32,7 +32,12 @@ I've done more than a thousand deep research sessions with Gemini 2.5 Pro in the
  I don't tell the model what to look for; instead, I set up Semantic Walls, which are barriers that block out whole areas of irrelevant information. Think of it like cauterizing whole areas of the latent space; tying off those possible paths.
 
  ```markdown
- CONTENT BOUNDARIES: - NO think pieces without policy substance - NO tech product news unless tied to regulatory response - NO international policy without US operational impact - NO sources prior to 2024 unless essential historical context
+ CONTENT BOUNDARIES:
+ 
+ - NO think pieces without policy substance
+ - NO tech product news unless tied to regulatory response
+ - NO international policy without US operational impact
+ - NO sources prior to 2024 unless essential historical context
 ```
 
  This narrows the search area from "all AI content" to "actionable US policy changes."  The model is still completely free to move around within those limits. It can find connections that I didn't specify, but most paths don't go anywhere, which forces it to naturally converge on high-signal areas.
@@ -41,10 +46,11 @@ I've done more than a thousand deep research sessions with Gemini 2.5 Pro in the
 
  When doing research, for example, on workflows I will use in my research cluster, I base my technical research on the "Hardware Truth," which is my real world hardware contraints.  This is especially powerful because it helps to keep the model from suggesting solutions that don't fit into my infrastructure.
 
-![hardware-truth-as-a-negative-space-boundin](hardware-truth-as-a-negative-space-bounding.jpg)
+![hardware-truth-as-a-negative-space-bounding](hardware-truth-as-a-negative-space-bounding.jpg)
 
  ```markdown
  THE "FACTORY" LIMITATIONS:
+ 
  - Memory Limit: 144GB of system RAM.  Any analysis of a global graph must fit.
  - VRAM Bottleneck: One A4000 (16GB).  Inference must be run on this card by foundation models.
  - Advantage of runtime: it's always available.  We CAN do compute jobs that last 20 days.
