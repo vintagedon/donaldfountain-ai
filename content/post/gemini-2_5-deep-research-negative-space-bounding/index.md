@@ -3,6 +3,7 @@ title: "Gemini 2.5 Deep Research: Negative Space Bounding"
 description: "A prompting methodology for AI research that emerged from a year of daily use. Define where NOT to look, and let the model find what you actually need."
 slug: negative-space-bounding-gemini-deep-research
 date: 2025-11-06
+image: cover.jpg
 categories:
     - AI Methodology
 tags:
@@ -40,7 +41,7 @@ I've done more than a thousand deep research sessions with Gemini 2.5 Pro in the
 
  When doing research, for example, on workflows I will use in my research cluster, I base my technical research on the "Hardware Truth," which is my real world hardware contraints.  This is especially powerful because it helps to keep the model from suggesting solutions that don't fit into my infrastructure.
 
-![hardware-truth-as-a-negative-space-boundin](hardware-truth-as-a-negative-space-bounding.jpg) 
+![hardware-truth-as-a-negative-space-boundin](hardware-truth-as-a-negative-space-bounding.jpg)
 
  ```markdown
  THE "FACTORY" LIMITATIONS:
@@ -53,7 +54,7 @@ I've done more than a thousand deep research sessions with Gemini 2.5 Pro in the
 
  This makes hardware specs into a strong negative space bound.  The model can't accidentally suggest solutions that need 80GB of VRAM or cloud-scale infrastructure because those paths are blocked off at the start.
 
- ## What Real Research Looks Like
+## What Real Research Looks Like
 
  During a DESI astronomical data architecture session, Gemini's thinking log showed this:
 
@@ -67,7 +68,7 @@ I've done more than a thousand deep research sessions with Gemini 2.5 Pro in the
 
  The model didn't make up that code snippet.  It is part of a full research framework that includes a database schema, an ETL workflow, analysis queries, Python visualization code, a project timeline, and a publication strategy. This was all made in one deep research session.  The kind of organized output that would take a graduate student weeks to put together.
 
- ## The Two-Stage Breakdown
+## The Two-Stage Breakdown
 
  After hundreds of sessions, I figured out that the underlying mechanism was a two-stage collapse:
 
