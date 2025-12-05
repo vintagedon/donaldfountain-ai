@@ -1,7 +1,7 @@
 ---
 title: "The Schema Defense: Hardware Constraints as Forcing Functions"
 description: "The DESI ARD schema isn't arbitrary. Every decision - Float16 embeddings, Parquet columnar storage, domain-decomposed topology - traces back to a 4-node K8s cluster with 48GB RAM per node and a single shared GPU."
-date: 2025-11-26
+date: 2025-11-24
 slug: desi-ard-schema-defense
 image: cover.jpg
 categories:

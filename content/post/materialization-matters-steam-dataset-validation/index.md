@@ -1,7 +1,7 @@
 ---
 title: "Materialization Matters: 1,500 Downloads Later"
 description: "The Steam Dataset 2025 validated a hypothesis: pre-compute the expensive stuff, make results queryable, and people will use it. Now I'm applying the same philosophy to astronomical spectroscopy."
-date: 2025-11-17
+date: 2025-11-19
 slug: materialization-matters-steam-validation
 image: cover.jpg
 categories:
